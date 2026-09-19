@@ -1,0 +1,30 @@
+body{
+    background-color: #C9A227;
+    color: #ffffff;
+}
+
+h1{
+     text-align: center;
+    text-shadow: 2px 2px 4px #000000;
+     
+}
+
+.paragrap{
+    float:left;
+   
+}
+
+.content{
+    display: flex;
+    align-items: flex-start;
+}
+
+.photo{
+    float:right;
+    border: 2px solid #ffffff;
+}
+
+
+
+
+
