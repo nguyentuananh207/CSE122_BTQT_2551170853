@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+    color:#C2185B ;
+}
+
+h2{
+    background-color:#FFC0CB ;
+}
