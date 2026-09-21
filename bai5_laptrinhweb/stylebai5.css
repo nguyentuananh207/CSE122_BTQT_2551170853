@@ -1,13 +1,26 @@
+h1{
+    color:#C2185B ;
+    text-align: center;
+}
 .container{
     display: flex;
     align-items: center;
 }
-
-h1{
-    text-align: center;
-    color:#C2185B ;
-}
-
 h2{
-    background-color:#FFC0CB ;
+    background-color:#FFC0CB  ;
+    font-weight: bold;
+    width: 35%;
+    padding: 0px 5px;
+}
+.footer{
+    color:#0000EE ;
+    text-decoration: underline;
+    float:right;
+    padding: 0px 100px;
+}
+.gioithieu{
+    list-style: square;
+}
+.lienhe{
+    list-style: circle;
 }
