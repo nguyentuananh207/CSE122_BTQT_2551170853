@@ -1,0 +1,22 @@
+h1{
+    background-color: #C8102E;
+    color:#FFFFFF ;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    margin: 0;
+}
+h2{
+    background-color: #FBE3E8;
+    color:#C8102E ;
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+}
+.container{
+    float:inline-end;
+    display: flex;
+    width: 50%;
+    align-items: center;
+}
