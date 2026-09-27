@@ -14,9 +14,28 @@ h2{
     padding: 10px;
     margin: 0;
 }
-.container{
+
+.container1{
     float:inline-end;
     display: flex;
     width: 50%;
-    align-items: center;
+    border-left:1px solid rgb(231, 230, 230);
+}
+img{
+    width: 150px;
+}
+.container2{
+    clear: both;
+    width: 50%;
+    display: flex;
+    float:inline-start;
+     margin: 0;
+}
+.tieudemuc{
+    color:#C8102E ;
+    font-weight: bold;
+    list-style-type:"\25A2\2004";
+}
+.bold{
+    font-weight: bold;
 }
