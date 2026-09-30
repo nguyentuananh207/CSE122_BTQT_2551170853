@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(201, 204, 206);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    background-color: white;
+    box-shadow: 0px 3px 5px rgb(154, 151, 151);
+    border-radius: 12px;
+    overflow: hidden;
+}
+.tieudeform{
+    background-color: #0f766e;
+    color: #ffffff;
+    padding: 20px;
+}
+.tieudeform > h1,.tieudeform >p{
+    margin: 0;
+}
+input{
+    color:#334155 ;
+}
+.nhan{
+     color:#334155 ;
+     font-weight: bold;
+     font-size: 15px;
+}
+.nhap{
+    display: flex;
+}
+ .Hotenvasdt>input,.emailvachude>input,.noidung,select{
+    width: 99%;
+    border-radius: 8px;
+    padding:12px;
+    border: 2px solid #cbd5e1 ;
+
+}
+.Hotenvasdt{
+    width: 50%;
+}
+.emailvachude{
+     width: 49%;
+}
+.noidung{
+    padding-bottom:40px;
+
+}
+.the{
+    padding: 20px;
+}
+.checkbox{
+    display: flex;
+    align-items: center;
+    float: right;
+}
+
+.nut{
+   padding-top: 60px ;
+}
+.guilienhe{
+    background-color: #0f766e;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 5px solid white;
+    color: white;
+}
+.nhaplai{
+    background-color: #c0c4c9;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 5px solid white;
+}
+
+
